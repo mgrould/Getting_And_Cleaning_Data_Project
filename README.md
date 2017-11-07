@@ -15,7 +15,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ## Repository
 * **test/**: Contains the test data.
-* **train/**: Contains the training dta.
+* **train/**: Contains the training data.
 * **README.txt**: Explanation of the performed experiments and summary of existing files.
 * **activity_labels.txt**: Links the class labels with their activity name.
 * **features_info.txt**: Shows information about the variables used on the feature vector.
