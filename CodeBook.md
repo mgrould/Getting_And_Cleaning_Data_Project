@@ -34,26 +34,45 @@ These signals were used to estimate variables of the feature vector for each pat
 '.xyz' is used to denote 3-axial signals in the x, y and z directions.
 
 activity 
+
 subject
+
 time.body.acc.xyz
+
 time.gravity.acc.xyz
+
 time.body.acc.jerk.xyz
+
 time.body.gyro.xyz
+
 time.body.gyro.jerk.xyz
+
 time.body.acc.mag
+
 time.gravity.acc.mag
+
 time.body.acc.jerk.mag
+
 time.body.gyro.mag
+
 time.body.gyro.JerkMag
+
 freq.body.acc.xyz
+
 freq.body.acc.jerk.xyz
+
 freq.body.gyro.xyz
+
 freq.body.acc.mag
+
 freq.body.acc.jerk.mag
+
 freq.body.gyro.mag
+
 freq.body.gyro.jerk.mag
 
-The set of variables that were estimated from the signals time.body.acc.xyz to freq.body.gyro.jerk.mag are: 
+The set of variables time.body.acc.xyz to freq.body.gyro.jerk.mag that were estimated from these signals are: 
 
 mean(): Mean value
+
 std(): Standard deviation
