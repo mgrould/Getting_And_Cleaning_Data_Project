@@ -17,5 +17,5 @@
 * Rename each column of the data set by using features.txt and the commands names(), gsub() and tolower(). 
 
 ## Create a second independent tidy data set  
-* Create a tidy data set with the average of each variable for each activity and each subject.
-* Write the data table in subset_tidy_dataset.txt.
+* Create a tidy data set with the average of each variable for each activity and each subject by using aggregate().
+* Write the data table in subset_tidy_dataset.txt with write.table().
