@@ -22,4 +22,4 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 * **features.txt**: List of all features.
 * **run_analysis.R**: Script allowing to clean and reduce the data set.
 * **subset_tidy_dataset.txt**: Final tidy data set.
-* **CodeBook.md**: CodeBook containing a description of the various steps performed in run_analysis.R.
+* **CodeBook.md**: CodeBook containing a description of the various steps performed in run_analysis.R and the variables created in subset_tidy_dataset.txt.
