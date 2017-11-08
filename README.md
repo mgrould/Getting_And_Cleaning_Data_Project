@@ -4,7 +4,7 @@
 7 November 2017
 
 ## Abstract
-This work is realized as part of the Coursera Data Science Specialization proposed by Johns Hopkins University. The aim of the project is to build a tidy data set by using the [programming language R](https://www.rstudio.com/).
+This work is realized as part of the Coursera Data Science Specialization proposed by the Johns Hopkins University. The aim of the project is to build a tidy data set by using the [programming language R](https://www.rstudio.com/).
 
 The cleaned and reduced data set is obtained by downloading the Getting_And_Cleaning_Data_Project repository and running the run_analysis.R file. The installation of the [dplyr R package](https://www.rdocumentation.org/packages/dplyr/versions/0.5.0) is required.
 
